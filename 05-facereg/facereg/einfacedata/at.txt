@@ -1,0 +1,15 @@
+./einfacedata/trainingdata/1.jpg;0
+./einfacedata/trainingdata/2.jpg;0
+./einfacedata/trainingdata/3.jpg;0
+./einfacedata/trainingdata/4.jpg;0
+./einfacedata/trainingdata/5.jpg;0
+./einfacedata/trainingdata/6.jpg;0
+./einfacedata/trainingdata/7.jpg;0
+./einfacedata/trainingdata/8.jpg;0
+./einfacedata/trainingdata/9.jpg;0
+./einfacedata/trainingdata/21.jpg;1
+./einfacedata/trainingdata/22.jpg;1
+./einfacedata/trainingdata/23.jpg;1
+./einfacedata/trainingdata/24.jpg;1
+./einfacedata/trainingdata/25.jpg;1
+./einfacedata/trainingdata/26.jpg;1
